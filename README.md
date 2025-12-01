@@ -50,3 +50,5 @@ Have been identified as possible bonus eligible orders based on their TotalSales
 - Sales Representatives can easily see their contribution levels at a glance.
 - Orders that are potentially eligible for bonuses show the highest concentration of revenue.
 - Categories help to identify what Product Groups are driving sales.
+  
+![Alt text](image-link-here)
