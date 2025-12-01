@@ -51,4 +51,4 @@ Have been identified as possible bonus eligible orders based on their TotalSales
 - Orders that are potentially eligible for bonuses show the highest concentration of revenue.
 - Categories help to identify what Product Groups are driving sales.
   
-![Alt text]([image-link-here](https://github.com/Anniewilliamsokpeke/Sales-Performance-Dashboard-Excel/blob/9e772f5b7d2905b297236c0a3b050b8e56f8e513/Sales%20Performance%20dashboard%20(BrightMart%20Superstore).png))
+![Alt text](https://github.com/Anniewilliamsokpeke/Sales-Performance-Dashboard-Excel/blob/9e772f5b7d2905b297236c0a3b050b8e56f8e513/Sales%20Performance%20dashboard%20(BrightMart%20Superstore).png)
